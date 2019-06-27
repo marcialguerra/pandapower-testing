@@ -1,3 +1,2 @@
 # pandapower-testing
-
-https://mybinder.org/v2/gh/marcialguerra/pandapower-testing/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcialguerra/pandapower-testing/master)
